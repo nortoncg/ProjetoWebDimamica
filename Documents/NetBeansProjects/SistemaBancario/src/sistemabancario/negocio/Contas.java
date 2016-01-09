@@ -10,5 +10,7 @@ package sistemabancario.negocio;
  * @author norton
  */
 public class Contas {
+    String nome;
+    String dataAbertura;
     
 }
